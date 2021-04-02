@@ -1,5 +1,7 @@
 # vue-element-admin
 
+[码云](https://gitee.com/chichengyu/vue-element-admin)
+
 #### 介绍
 
 基于vue、element做的一个后台管理系统，默认打包出的是异步加载。这里也提供一个完整的包（包括依赖）[下载](https://share.weiyun.com/q66xenwH)即用，密码：`gzmpiy`  
